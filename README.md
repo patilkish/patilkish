@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I'm passionate about technology and always eager t
 - LinkedIn: https://www.linkedin.com/
 - GitHub: https://github.com/patilkish/
 - Email: desalekishor1082001@gmail.com
+- Insta: https://www.instagram.com/code.kishor
 
 ## 😄 Pronouns: He/Him
 
