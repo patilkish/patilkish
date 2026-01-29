@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about technology and always eager t
 - Excited to work with like-minded developers and designers to build amazing projects!
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/
+- LinkedIn: https://www.linkedin.com/in/kishor-desale
 - GitHub: https://github.com/patilkish/
 - Email: desalekishor1082001@gmail.com
 - Insta: https://www.instagram.com/code.kishor
